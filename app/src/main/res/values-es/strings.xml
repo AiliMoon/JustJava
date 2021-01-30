@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nombre</string>
+    <string name="app_name">Sólo Java</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="whipped_cream">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Cantidad</string>
+    <string name="quantity_mainjava">Cantidad:</string>
+    <string name="order">Ordenar</string>
+    <string name="order_summary_name">"Nombre: "</string>
+    <string name="add_whipped_cream">Agregue la crema batida?</string>
+    <string name="add_chocolate">"Agregue el chocolate? "</string>
+    <string name="total">Total:</string>
+    <string name="thank_you">¡Gracias!</string>
+    <string name="java_java_order_for">"Sólo java para "</string>
+    <string name="price">Precio</string>
+    <string name="cannot_order_more_100">No puedes tener más de 100 cafés</string>
+    <string name="toast_less_1_coffee">No puede tomar menos de 1 café</string>
+</resources>
